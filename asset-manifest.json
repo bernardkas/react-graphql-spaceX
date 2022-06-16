@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bernardkas/react-graphql-spaceX/static/css/main.39567106.css",
+    "main.js": "/bernardkas/react-graphql-spaceX/static/js/main.f2693c94.js",
+    "index.html": "/bernardkas/react-graphql-spaceX/index.html",
+    "main.39567106.css.map": "/bernardkas/react-graphql-spaceX/static/css/main.39567106.css.map",
+    "main.f2693c94.js.map": "/bernardkas/react-graphql-spaceX/static/js/main.f2693c94.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.39567106.css",
+    "static/js/main.f2693c94.js"
+  ]
+}
